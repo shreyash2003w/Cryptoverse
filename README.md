@@ -1,3 +1,6 @@
+Web based platform where all the cryptocurrency related information and latest information are available.
+It is build with ReactJs and Redux,fetching the data with Rapid Api.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
